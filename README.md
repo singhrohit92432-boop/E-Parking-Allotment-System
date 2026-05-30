@@ -1,10 +1,12 @@
 **🚗 E-Parking Allotment System**
+
 Smart • Secure • Efficient Parking Management
 An automated parking management and slot allotment system designed to streamline vehicle parking operations through digital registration, slot management, and admin monitoring.
 
 Status Language Frontend
 
 **✨ Overview**
+
 E-Parking Allotment System is a smart parking management application developed to automate and simplify vehicle parking operations. The system provides digital parking slot allocation, vehicle registration, booking management, and administrative control through an integrated frontend and backend architecture.
 
 The project is designed to reduce manual parking management efforts by enabling efficient parking slot handling, organized vehicle records, and real-time parking operations. Users can register vehicles, request parking slots, and interact with the system through a user-friendly web interface, while administrators can monitor bookings, manage parking slots, and control parking activities from the admin dashboard.
@@ -13,35 +15,64 @@ The system combines C programming for core backend logic with HTML and CSS for t
 
 This project is suitable for academic learning, mini-project implementation, and future enhancement into a real-world smart parking solution.
 
+
 **🚀 Features**
+
 ✅ Vehicle Registration System
+
 ✅ Parking Slot Allotment
+
 ✅ Booking Queue Management
+
 ✅ Admin Login & Dashboard
+
 ✅ Guest Registration
+
 ✅ Slot Availability Tracking
+
 ✅ File-Based Data Storage
+
 ✅ Frontend & Backend Integration
+
 ✅ Simple and User-Friendly Interface
 
+
 **🛠️ Tech Stack**
+
 Frontend
+
 HTML
+
 CSS
+
 Backend
+
 C Programming
+
 Python (Flask Server)
+
 Concepts Used
+
 Data Structures
+
 Queue Management
+
 File Handling
+
 Parking Slot Allocation Logic
+
 Authentication System
+
 Development Tools
+
 Visual Studio Code
+
 Git
+
 GitHub
-📂 Project Structure
+
+
+**📂 Project Structure**
 ```
 PARKING/
 │
@@ -83,7 +114,9 @@ PARKING/
 │
 └── README.md                     # Project documentation
 ```
+---
 **🔍 Working Process**
+```
 User Registration
         ↓
 Vehicle Entry
@@ -95,20 +128,38 @@ Booking Management
 Admin Monitoring
         ↓
 Parking Record Storage
+```
+
 **📊 System Modules**
 User Registration Module
+
 Parking Slot Management
+
 Booking Queue System
+
 Admin Authentication
+
 Parking Record Management
+
 Frontend Interface Module
+
+
 **🎯 Future Enhancements**
+
 Online Payment Integration
+
 QR-Based Parking Access
+
 Real-Time Slot Monitoring
+
 AI-Based Smart Slot Prediction
+
 Database Integration
+
 Mobile Application Support
+
+
 👩‍💻 Author
+
 Rohit Singh
 B.Tech CSE(2nd year)
